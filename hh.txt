@@ -1,0 +1,10 @@
+/*Scanner sc=new Scanner(System.in);
+	System.out.println("Enter details of id,name");
+	int id=sc.nextInt();
+	String name=sc.next();
+	//int did=sc.nextInt();*/
+	
+	//System.out.println("Enter details of department id and name");
+	//int depid=sc.nextInt();
+	//String dname=sc.next();
+	//d.setDepartmentId(5);*/
