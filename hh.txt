@@ -1,3 +1,2 @@
 /*Scanner sc=new Scanner(System.in);
 	
-	//d.setDepartmentId(5);*/
